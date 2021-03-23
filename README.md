@@ -2,12 +2,11 @@
 
 Simple server with node and express
 
+#Requeriment: Node / Express
 
-# Requeriment
-Node
-Express
+#Instalation
 
-# Instalation
-npm init -y
-npm install express --save
+1 - npm init -y
+
+2 - npm install express --save
 
